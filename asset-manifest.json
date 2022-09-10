@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ebooks/static/css/main.dad90773.css",
+    "main.js": "/Ebooks/static/js/main.22a4a1af.js",
+    "static/js/787.81588d33.chunk.js": "/Ebooks/static/js/787.81588d33.chunk.js",
+    "static/media/lib.jpg": "/Ebooks/static/media/lib.5efca3f50165d2a2773b.jpg",
+    "index.html": "/Ebooks/index.html",
+    "main.dad90773.css.map": "/Ebooks/static/css/main.dad90773.css.map",
+    "main.22a4a1af.js.map": "/Ebooks/static/js/main.22a4a1af.js.map",
+    "787.81588d33.chunk.js.map": "/Ebooks/static/js/787.81588d33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dad90773.css",
+    "static/js/main.22a4a1af.js"
+  ]
+}
